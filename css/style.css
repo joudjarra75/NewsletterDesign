@@ -1,0 +1,88 @@
+body
+{
+ background-color: #36384D;;
+}
+
+.col-4
+{
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.col-7
+
+{
+  
+}
+
+
+.card-body
+{
+    margin-left: 20px;
+    margin-top: 50px;
+   
+
+    
+    
+    
+}
+
+.mainCard
+{
+    margin-top: 100px;
+}
+.card-title
+{
+    font-weight: bold;
+    
+   
+    
+}
+.card-text
+{
+    font-size: 16px;
+   
+    
+}
+
+
+.imgs
+{
+    margin-top: 10px;
+}
+
+.p
+{
+    font-weight: bold;
+    font-size: small;
+}
+
+input
+{
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    width: 80%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+button
+{
+    font-size: smaller;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    width: 80%;
+    margin-top: 20px;
+    background-color: #232742;
+    color: white;
+    border-radius: 10px;
+}
+button:hover
+{
+    background-color:tomato;
+
+}
